@@ -115,7 +115,7 @@
         position: relative;      
       }
 
-      /* SOCIAL STYLES */
+       /*SOCIAL STYLES */
       .social-link {
         background:#008059;
         border-radius: 99px;
@@ -138,17 +138,15 @@
         background:#bcb7b5;
       }
       .social-list {
-        bottom:0;
         list-style: none;
         padding: 0;
-        position: absolute;
         text-align: center;
       }
       .social-list > li {
         display: inline-block;
         margin: 0 0.5em;
       }
-
+    
       /* BIO STYLES */
       .bio-wrapper {
         font-size: 24px;
