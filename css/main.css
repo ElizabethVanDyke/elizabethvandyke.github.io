@@ -539,9 +539,9 @@
         {
           display: none;
         }
-          /*.blog-recent {*/
-          /*  display: none;*/
-          /*}*/
+          .blog-recent {
+            display: none;
+          }
           .blog-previews {
             padding: 0;
           }
@@ -576,6 +576,6 @@
         .gallery .gallery-info {
           flex: 1;
         }
-}
+
       }
      
